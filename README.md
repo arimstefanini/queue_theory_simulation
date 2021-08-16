@@ -1,11 +1,7 @@
 # queue_theory_simulation
 Queue Theory Simulation
 
-Trabalho 2 – Análise de Desempenho 
-Data de entrega: 16/10/2020 até as 23:55 no Moodle. Valor: 4,0.
-Pode ser feito em dupla ou individualmente.
-Prof. Flavio Barbieri Gonzaga – Universidade Federal de Alfenas – UNIFAL-MG
-No trabalho 2 pensaremos no nosso simulador como sendo uma loja, e cujo negócio deu muito
+No trabalho pensaremos no nosso simulador como sendo uma loja, e cujo negócio deu muito
 certo ($$$)! O proprietário da loja já possui um módulo de treinamento e sistema otimizados,
 de modo que cada caixa da loja gasta  em média 1 minuto  (seguindo v.a. Exponencial) para
 atender cada cliente.
